@@ -1,4 +1,4 @@
-# Hola, soy Gian Luca 👋
+# Hola, soy Gian Luca Pucciarelli 👋
 
 💻 Desarrollador Web Junior  
 📍 Uruguay  
