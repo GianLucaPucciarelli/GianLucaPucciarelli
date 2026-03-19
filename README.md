@@ -18,5 +18,5 @@
 - 🔹 Proyecto JavaScript
 
 ## 📫 Contacto
-- Email: tuemail@gmail.com
+- Email: luca_3093@hotmail.com
 - LinkedIn: www.linkedin.com/in/luca-pucciarelli-2090b6297
